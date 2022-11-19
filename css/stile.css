@@ -1,0 +1,95 @@
+.img-thumbnail{
+    position: absolute;
+
+    height: 283.24px;
+
+    left: 200px;
+
+    top: 150px;
+}
+
+.footer{
+   display: flex;
+}
+
+.text_1{
+    font-family: Rubik;
+font-size: 35px;
+font-weight: 500;
+line-height: 41px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.section{
+position: absolute;
+width: 600px;
+height: 400px;
+left: 200px;
+}
+
+.section_text{
+margin-left: 350px;
+height: 100px;
+width: 526px;
+left: 0px;
+top: 164px;
+border-radius: nullpx;
+}
+
+.text_color{
+  caret-color: chartreuse;
+}
+
+.button_link{
+height: 60px;
+width: 300px;
+left: 0px;
+top: 454px;
+border-radius: 10px;
+}
+
+.mt-5{
+  height: 250px;
+}
+
+
+.foto{
+height: 316px;
+width: 422.0004577636719px;
+left: 1247px;
+top: 869px;
+}
+
+.fotography{
+  width: 1150px;
+}
+
+.card-body{
+height: 366px;
+width: 413px;
+left: 200px;
+top: 884px;
+border-radius: 0px;
+}
+
+.mt-4{
+  height: 200px;
+}
+
+.mt-3{
+  height: 100px;
+}
+
+.mt-2{
+  height: 50px;
+}
+
+.blok_text{
+  font: size 200px; ;
+}
+
+.blooc{
+  text-decoration: none;
+}
+
